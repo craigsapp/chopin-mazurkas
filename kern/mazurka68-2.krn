@@ -19,390 +19,572 @@
 *a:	*a:	*a:
 *M3/4	*M3/4	*M3/4
 *MM116	*MM116	*MM116
-16r	16e/LK	p
-4r	8.a/	.
-.	16cc/Jk	.
+16r	16eLK	p
+4r	8.a	.
+.	16ccJk	.
 =1	=1	=1
-4AAA/	8.ee\L	.
-.	(16ee\Jk	.
-4E\ 4c\	4cc\)	.
-4E^\ 4B^\	4dd#^\	.
+*ped	*	*
+.	(8eq	.
+4AAA	8.eeL)	.
+.	(16eeJk	.
+4E 4c	4cc)	.
+4E^ 4B^	4dd#t^	.
+.	.	.
+*Xped	*	*
+.	(16cc##/qLL	.
+.	16dd#q/JJ)	.
 =2	=2	=2
-4AA/	(8.ee\L	.
-.	16ee\Jk	.
-4E\ 4c\	4a/	.
-4E\ 4c\	4cc\)	.
+*ped	*	*
+4AA	(8.eeL	.
+.	16eeJk	.
+4E 4c	4a	.
+4E 4c	4cc)	.
+.	.	.
+*Xped	*	*
 =3	=3	=3
-4AA/	8.b\L	.
-.	16b\Jk	.
-4E\ 4d\	4f#/	.
-4E\ 4d\	4g#/	.
+*ped	*	*
+4AA	8.bL	.
+.	16bJk	.
+4E 4d	4f#	.
+4E 4d	4g#t	.
+.	.	.
+*Xped	*	*
 =4	=4	=4
-4AA/	8a''/L	.
-.	16r	.
-.	(16e/k	<
-4E\ 4c\	8a''/)	.
-.	16r	.
-.	(16e/k	.
-4E\ 4c\	8a''/)	.
-.	16r	.
-.	16cc/Jk	.
+*ped	*	*
+4AA	8a''L	.
+.	16r	<
+.	(16ek	(
+4E 4c	8a'')	(
+.	16r	(
+.	(16ek	(
+4E 4c	8a'')	(
+.	16r	(
+!	!LO:S:a	!
+.	(16ccJk	[
+*Xped	*	*
 =5	=5	=5
-4AA/	8ee''\L	.
+*ped	*	*
+4AA	8ee''L)	.
 .	16r	.
-.	(16ee\Jk	.
-4E\ 4c\	4cc\)	.
-4E^\ 4B^\	4dd#^\	.
+.	(16eeJk	.
+4E 4c	4cc)	.
+4E^ 4B^	4dd#t^	.
+.	.	.
+*Xped	*	*
 =6	=6	=6
-4AA/	(8.ee\L	.
-.	16ee\Jk	.
-4E\ 4c\	4a/	.
-4E\ 4c\	4cc\)	.
+*ped	*	*
+4AA	(8.eeL	.
+.	16eeJk	.
+4E 4c	4a	.
+4E 4c	4cc)	.
+.	.	.
+*Xped	*	*
 =7	=7	=7
-4AA/	8.b\L	.
-.	16b\Jk	.
-4E\ 4d\	4f#/	.
-4E\ 4d\	4g#/	.
+*ped	*	*
+4AA	8.bL	.
+.	16bJk	.
+4E 4d	4f#	.
+4E 4d	4g#t	.
+.	.	.
+*Xped	*	*
 =8	=8	=8
-4AA/	4aa\	.
-4E\ 4c\	8.r	.
-.	(16e/LK	.
-4r	8.a/	.
-.	16cc/Jk	.
+*ped	*	*
+.	(8aq	.
+4AA	4aa)	.
+4E 4c	8.r	.
+!	!LO:S:a	!
+.	(16eLK	.
+4r	8.a	.
+.	16ccJk	.
+*Xped	*	*
 =9	=9	=9
-4AAA/	8.ee\L)	.
-.	16ee\Jk	.
-4E\ 4c\	4cc\	.
-4E^\ 4B^\	4dd#\	.
+*ped	*	*
+.	8eq	.
+4AAA	8.eeL)	.
+.	16eeJk	.
+4E 4c	4cc	.
+4E^ 4B^	4dd#t	.
+.	.	.
+*Xped	*	*
 =10	=10	=10
-4AA/	(8.ee\L	.
-.	16ee\Jk	.
-4E\ 4c\	4a/	.
-4E\ 4c\	4cc\)	.
+*ped	*	*
+4AA	(8.eeL	.
+.	16eeJk	.
+4E 4c	4a	.
+4E 4c	4cc)	.
+.	.	.
+*Xped	*	*
 =11	=11	=11
-4AA/	8.b\L	.
-.	16b\Jk	.
-4E\ 4d\	4f#/	.
-4E\ 4d\	4g#/	.
+*ped	*	*
+4AA	8.bL	.
+.	16bJk	.
+4E 4d	4f#	.
+4E 4d	4g#t	.
+*Xped	*	*
 =12	=12	=12
-4AA/	8a''/L	.
-.	16r	.
-.	(16e/k	<
-4E\ 4c\	8a''/)	.
-.	16r	.
-.	(16e/k	.
-4E\ 4c\	8a''/)	.
-.	16r	.
-.	(16cc/Jk	.
+*ped	*	*
+4AA	8a''L	.
+.	16r	<
+.	(16ek	(
+4E 4c	8a'')	(
+.	16r	(
+.	(16ek	(
+4E 4c	8a'')	(
+.	16r	(
+.	(16ccJk	[
+*Xped	*	*
 =13	=13	=13
-4AA/	8ee''\L)	.
+*ped	*	*
+4AA	8ee''L)	.
 .	16r	.
-.	(16ee\Jk	.
-4E\ 4c\	4cc\)	.
-4E^\ 4B^\	4dd#\	.
+.	(16eeJk	.
+4E 4c	4cc)	.
+4E^ 4B^	4dd#^t	.
+.	.	.
+*Xped	*	*
 =14	=14	=14
-4AA/	(8.ee\L	.
-.	16ee\Jk	.
-4E\ 4c\	4a/	.
-4E\ 4c\	4cc\)	.
+*ped	*	*
+4AA	(8.eeL	.
+.	16eeJk	.
+4E 4c	4a	.
+4E 4c	4cc)	.
+.	.	.
+*Xped	*	*
 =15	=15	=15
-4AA/	8.b\L	.
-.	16b\Jk	.
-4E\ 4d\	4f#/	.
-4E\ 4d\	4g#/	.
+*ped	*	*
+4AA	8.bL	.
+.	16bJk	.
+4E 4d	4f#	.
+4E 4d	4g#t	.
+.	.	.
+*Xped	*	*
 =16	=16	=16
-4A\ 4c\	4aa\	.
+.	(8aq	.
+4A 4c	4aa)	.
 4r	8.r	.
-.	(16gn\LK	.
-4r	8.cc\	.
-.	16ee\Jk	.
+.	(16gnLK	.
+4r	8.cc	.
+.	16eeJk	.
 =17!|:	=17!|:	=17!|:
 *>B	*>B	*>B
-4C/	8.gg\L)	.
-.	16gg\Jk	.
-4G\ 4e\	4ee\	.
-4G^\ 4d#^\	4ff#^\	.
+*ped	*	*
+4C	8.ggL)	.
+.	16ggJk	.
+4G 4e	4ee	.
+.	.	.
+*Xped	*	*
+4G^ 4d#^	4ff#t^	.
+.	(16ee#L/Lq	.
+.	16ff#JJ/q)	.
 =18	=18	=18
-4C/	8.gg\L	.
-.	16gg\Jk	.
-4G\ 4e\	4een\	.
-4G^\ 4d#^\	4ff#^\	.
+*ped	*	*
+4C	8.ggL	.
+.	16ggJk	.
+4G 4e	4een	.
+.	.	.
+*Xped	*	*
+4G^ 4d#^	4ff#t^	.
 =19	=19	=19
-4C/	8gg\L	.
+*ped	*	*
+4C	8ggL	.
 .	16r	.
-.	(16gg\Jk	.
-4G\ 4e\	4cc\)	.
-4G^\ 4f^\	4dd^\	.
+.	(16ggJk	.
+4G 4e	4cc)	.
+4G^ 4f^	4dd^	.
+*Xped	*	*
 =20	=20	=20
-4C/	2.ee\	.
-4G\ (4e\	.	.
-4E\ 4G#\ 4d\)	.	.
+.	(16ccLL/q	.
+.	16ddJJ/q	.
+4C	2.ee)	.
+!LO:TX:a:i:t=rit.	!	!
+4G (4e	.	.
+4E 4G# 4d)	.	.
 =21	=21	=21
-4AAA/	8.ee\L	p
-.	16ee\Jk	.
-4E\ 4c\	4cc\	.
-4E^\ 4B^\	4dd#\	.
+*ped	*	*
+.	(8eq	.
+!	!LO:TX:a:i:t=a tempo	!
+4AAA	8.eeL)	p
+.	16eeJk	.
+4E 4c	4cc	.
+.	.	.
+*Xped	*	*
+4E^ 4B^	4dd#^t	.
 =22	=22	=22
-4AA/	(8.ee\L	.
-.	16ee\Jk	.
-4E\ 4c\	4a/	.
-4E\ 4c\	4cc\)	.
+*ped	*	*
+4AA	(8.eeL	.
+.	16eeJk	.
+4E 4c	4a	.
+4E 4c	4cc)	.
+.	.	.
+*Xped	*	*
 =23	=23	=23
-4AA/	8.b\L	.
-.	16b\Jk	.
-4E\ 4d\	4f#/	.
-4E\ 4d\	4g#/	.
+*ped	*	*
+4AA	8.bL	.
+.	16bJk	.
+4E 4d	4f#	.
+4E 4d	4g#t	.
+.	.	.
+*Xped	*	*
 =24	=24	=24
-4AA/	8a/L	<
-.	16r	.
-.	(16e/k	.
-4E\ 4c\	8a''/)	.
-.	16r	.
-.	(16e/k	.
-4E\ 4c\	8a''/)	.
-.	16r	.
-.	(16cc/Jk	.
+*ped	*	*
+4AA	8aL	.
+.	16r	<
+.	(16ek	(
+4E 4c	8a'')	(
+.	16r	(
+.	(16ek	(
+4E 4c	8a'')	(
+.	16r	(
+!	!LO:S:a	!
+.	(16ccJk	[
+*Xped	*	*
 =25	=25	=25
-4AA/	8ee\L)	.
+*ped	*	*
+4AA	8eeL)	.
 .	16r	.
-.	(16ee\Jk	.
-4E\ 4c\	4cc\)	.
-4E\ 4B\	4dd#^\	.
+.	(16eeJk	.
+4E 4c	4cc)	.
+4E^ 4B^	4dd#^t	.
+.	.	.
+*Xped	*	*
 =26	=26	=26
-4AA/	8.ee\L	.
-.	16ee\Jk	.
-4E\ 4c\	4a/	.
-4E\ 4c\	4cc\	.
+*ped	*	*
+4AA	8.eeL	.
+.	16eeJk	.
+4E 4c	4a	.
+4E 4c	4cc	.
+.	.	.
+*Xped	*	*
 =27	=27	=27
-4AA/	8.b\L	.
-.	16b\Jk	.
-4E\ 4d\	4f#/	.
-4E\ 4d\	4g#/	.
+*ped	*	*
+4AA	8.bL	.
+.	16bJk	.
+4E 4d	4f#	.
+4E 4d	4g#t	.
+.	.	.
+*Xped	*	*
 =28	=28	=28
 *>B1	*>B1	*>B1
-4AA/	4aa\	.
-8E\ 8c\	8.r	.
+*ped	*	*
+.	(8aq	.
+4AA	4aa)	.
+8E 8c	8.r	.
 8r	.	.
-.	16gn\LK	.
-4r	(8.cc\	.
-.	16ee\Jk)	.
+*Xped	*	*
+.	(16gnLK	.
+4r	8.cc	.
+.	16eeJk)	.
 =29:|!	=29:|!	=29:|!
 *>B2	*>B2	*>B2
-4AA/	4aa\	.
-4E\ 4c\	8.r	.
-.	(16e/LK	.
-4r	8.e/	.
-.	16e/Jk)	.
+.	(8aq	.
+4AA	4aa)	.
+4E 4c	8.r	.
+.	(16eLK	.
+4r	8.e	.
+.	16eJk)	.
 =30	=30	=30
 *>C	*>C	*>C
 *k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*ped	*	*
 *	*^	*
-4AA/ 4E/	8.cc#/L	4c#\ 4e\	mf
-.	16cc#/Jk	.	<
-4AA/ 4E/	(4e/	4c#\	.
-4AA/ 4E/	4a/)	4c#\	.
+4AA 4E	8.cc#L	4c# 4e	mf
+.	16cc#Jk	.	.
+!	!LO:TX:b:i:t=cresc.	!	!
+4AA 4E	(4e	4c#	.
+4AA 4E	4a)	4c#	.
 =31	=31	=31	=31
-4AA/ 4E/	8.cc#/L	4c#\ 4e\	.
-.	16cc#/Jk	.	.
-4AA/ 4E/	(4e/	4c#\	.
-4AA/ 4E/	4a/)	4c#\	.
+4AA 4E	8.cc#L	4c# 4e	.
+.	16cc#Jk	.	.
+4AA 4E	(4e	4c#	.
+4AA 4E	4a)	4c#	.
+*Xped	*	*	*
 *clefG2	*	*	*
 *	*v	*v	*
 =32	=32	=32
 *^	*	*
-8.c#/ (8.e/L	2.A\	8.cc#\ (8.ee\L	f
-16B#/ 16d#/Jk	.	16b#\ 16dd#\Jk	.
-4.dn/ 4.f#/	.	4.ddn\ 4.ff#\	.
-8c#/ 8e/)	.	8cc#\ 8ee\)	.
+8.c# (8.eL	2.A	8.cc# (8.eeL	f
+16B# 16d#Jk	.	16b# 16dd#Jk	.
+4.dn 4.f#	.	4.ddn 4.ff#	.
+8c# 8e)	.	8cc# 8ee)	.
 =33	=33	=33	=33
-8.c#/ (8.e/L	2.A\	8.cc#\ 8.ee\L	pp
-16B#/ 16d#/Jk	.	16b#\ 16dd#\Jk	.
-4.dn/ 4.f#/	.	4.ddn\ 4.ff#\	.
-8c#/ 8e/)	.	8cc#\ 8ee\	.
+.	.	(16b#qLL 16dd#/q	.
+.	.	16ff#/qJJ)	.
+8.c# (8.eL	2.A	(8.cc# 8.eeL	pp
+16B# 16d#Jk	.	16b# 16dd#Jk	.
+4.dn 4.f#	.	4.ddn 4.ff#	.
+8c# 8e)	.	8cc# 8ee)	.
 *v	*v	*	*
 *clefF4	*	*
 =34	=34	=34
+*ped	*	*
 *	*^	*
-4AA/ 4E/	8.cc#/L	4c#\ 4e\	p
-.	16cc#/Jk	.	.
-4AA/ 4E/	4e/	4c#\	.
-4AA/ 4E/	4a/	4c#\	.
+4AA 4E	8.cc#L	4c# 4e	p
+.	16cc#Jk	.	.
+4AA 4E	4e	4c#	.
+4AA 4E	4a	4c#	.
+.	.	.	.
 =35	=35	=35	=35
-4AA/ 4E/	8.cc#/L	4c#\ 4e\	.
-.	16cc#/Jk	.	.
-4AA/ 4E/	4e/	4c#\	.
-4AA/ 4E/	4a/	4c#\	.
+4AA 4E	8.cc#L	4c# 4e	<
+.	16cc#Jk	.	(
+4AA 4E	4e	4c#	(
+4AA 4E	4a	4c#	[
 *	*v	*v	*
+*Xped	*	*
 =36	=36	=36
+*ped	*	*
 *^	*	*
-(8.G#/L	[4GG#\	8.e/ (8.cc#/L	mf
-16G#/Jk	.	16d#/ 16b#/Jk	<
-2G#/)	4GG#\]	4.f#/ 4.dd#/	>
-.	4C#\	.	.
-.	.	8e/ 8cc#/)	.
+!	!	!LO:S:a	!
+(8.G#L	[4GG#	8.e (8.cc#L	mf
+16G#Jk	.	16d# 16b#Jk	<
+.	.	(8dq 8bq	.
+2G#)	4GG#]	4.f# 4.dd#)	[
+.	.	.	>
+*Xped	*	*	*
+.	4C#	.	)
+.	.	8e 8cc#)	]
 =37	=37	=37	=37
-(8.G#/L	[4GG#\	8.e/ (8.cc#/L	pp
-16G#/Jk	.	16d#/ 16b#/Jk	.
-2G#/)	4GG#\]	4f#/ 4dd#/	>
-.	4C#\	4e/ 4cc#/)	.
+*ped	*	*	*
+!	!	!LO:S:a	!
+(8.G#L	[4GG#	8.e (8.cc#L	pp
+.	.	.	<
+16G#Jk	.	16d# 16b#Jk	(
+.	.	.	[
+2G#)	4GG#]	4f# 4dd#	>
+.	.	.	)
+.	4C#	4e 4cc#)	)
+*Xped	*	*	*
+.	.	.	]
 *v	*v	*	*
 =38:|!	=38:|!	=38:|!
 *>D	*>D	*>D
 *	*^	*
-4BB\ 4B\	(8.ddn/L	4dn\ 4f#\	.
-.	16dd/Jk	.	.
-4E\ 4B\	4b/	4d\ 4g#\	.
-4E\ 4B\	4ee/)	4d\ 4g#\	.
+!	!LO:TX:b:i:t=legatissimo	!	!
+4BB 4B	(8.ddnL	4dn 4f#	.
+.	16ddJk	.	.
+4E 4B	4b	4d 4g#	.
+4E 4B	4ee)	4d 4g#	.
 =39	=39	=39	=39
-4AA\ 4E\ 4A\	8.cc#/L	4c#\ 4e\	.
-.	16cc#/Jk	.	.
-4AA/ 4E/	4e/	4c#\	.
-4AA/ 4E/	4a/	4c#\	.
+*ped	*	*	*
+4AA 4E 4A	8.cc#L	4c# 4e	.
+.	16cc#Jk	.	.
+4AA 4E	4e	4c#	.
+4AA 4E	4a	4c#	.
+.	.	.	.
+*Xped	*	*	*
 =40	=40	=40	=40
-4AA/ 4F#/	8.b/L	4d#\ 4f#\	<
-.	16b/Jk	.	.
-4AA\ 4G#\	4b/	4dn\ 4fn\	.
-4AA\ 4G#\	4b/	4d\ 4e\	.
+4AA 4F#	8.bL	4d# 4f#	<
+.	16bJk	.	(
+4AA 4G#	4b	4dn 4fn	(
+4AA 4G#	4b	4d 4e	[
+.	.	.	.
 =41	=41	=41	=41
-4AA\ 4A\	8.cc#/L	4c#\ 4e\	.
-.	16cc#/Jk	.	.
-4AA/ 4E/	4e/	4c#\	.
-4AA/ 4E/	4a/	4c#\	.
+*ped	*	*	*
+4AA 4A	8.cc#L	4c# 4e	.
+.	16cc#Jk	.	.
+4AA 4E	4e	4c#	.
+4AA 4E	4a	4c#	.
+.	.	.	.
+*Xped	*	*	*
 =42	=42	=42	=42
-4AA/ 4F#/	8.dd/L	4d\ 4a\	>
-.	16dd/Jk	.	.
-4AA/ 4Fn/	4b/	4d\ 4a\	.
-4AA/ 4E/	4ee/	4d\ 4g#\	.
+4AA 4F#	8.ddL	4d 4a	>
+.	16ddJk	.	)
+4AA 4Fn	4b	4d 4a	)
+4AA 4E	4ee	4d 4g#	]
 =43	=43	=43	=43
-4AA/ 4E/	8.cc#/L	4c#\ 4e\	.
-.	16cc#/Jk	.	.
-4AA/ 4E/	4e/	4c#\	.
-4AA/ 4E/	4a/	4c#\ 4e\	.
+*ped	*	*	*
+!	!LO:TX:i:b:t=poco a poco riten.	!	!
+4AA 4E	8.cc#L	4c# 4e	.
+.	16cc#Jk	.	.
+4AA 4E	4e	4c#	.
+4AA 4E	4a	4c# 4e	.
+.	.	.	.
+*Xped	*	*	*
 =44	=44	=44	=44
-4AA/ 4F#/	8.b/L	4d#'\ 4f#'\	.
-.	16b/Jk	.	.
-4AA\ 4G#\	4b/	4dn\ 4fn\	.
-4AA\ 4G#\	4b/	4d\ 4e\	.
+4AA 4F#X	8.bL	4d# 4f#	.
+.	16bJk	.	.
+4AA 4G#	4b	4dn 4fn	.
+4AA 4G#	4b	4d 4e	.
 =45	=45	=45	=45
-4AA\ 4A\	8.cc#/L	4c#\ 4e\	.
-.	16cc#/Jk	.	.
-4AA/ 4E/	4r	4c#/ 4e/	.
-4AA/ 4E/	4r	4c#/ 4a/	.
+4AA 4A	8.cc#L	4c# 4e	.
+.	16cc#Jk	.	.
+4AA 4E	4ryy	4c# 4e	.
+4AA 4E	4ryy	4c# 4a	.
 *	*v	*v	*
-=46	=46	=46
+=46||	=46||	=46||
 *k[]	*k[]	*k[]
-4AAA/	8.ee\L	.
-.	16ee\Jk	.
-4E\ 4c\	4cc\	.
-4E\ 4B\	4dd#\	.
+*ped	*	*
+.	(8eq	.
+4AAA	8.eeL)	.
+.	16eeJk	.
+4E 4c	4cc	.
+4E 4B	4dd#t	.
+.	.	.
+*Xped	*	*
 =47	=47	=47
-4AA/	(8.ee\L	.
-.	16ee\Jk	.
-4E\ 4c\	4a/	.
-4E\ 4c\	4cc\)	.
+*ped	*	*
+4AA	(8.eeL	.
+.	16eeJk	.
+4E 4c	4a	.
+4E 4c	4cc)	.
+*Xped	*	*
 =48	=48	=48
-4AA/	8.b\L	.
-.	16b\Jk	.
-4E\ 4d\	4f#/	.
-4E\ 4d\	4g#/	.
+*ped	*	*
+4AA	8.bL	.
+.	16bJk	.
+4E 4d	4f#	.
+4E 4d	4g#t	.
+.	.	.
+*Xped	*	*
 =49	=49	=49
-4AA/	8a''/L	.
+*ped	*	*
+4AA	8a''L	.
 .	16r	.
-.	(16e/k	<
-4E\ 4c\	8a''/)	.
-.	16r	.
-.	(16e/k	.
-4E\ 4c\	8a''/)	.
-.	16r	.
-.	(16cc/Jk	.
+.	(16ek	<
+4E 4c	8a'')	(
+.	16r	(
+.	(16ek	(
+4E 4c	8a'')	(
+.	16r	(
+!	!LO:S:a	!
+.	(16ccJk	[
+*Xped	*	*
 =50	=50	=50
-4AA/	8ee''\L)	.
+*ped	*	*
+4AA	8ee''L)	.
 .	16r	.
-.	(16ee\Jk	.
-4E\ 4c\	4cc\)	.
-4E\ 4B\	4dd#^\	.
+.	(16eeJk	.
+4E 4c	4cc)	.
+4E 4B	4dd#t^	.
+.	.	.
+*Xped	*	*
 =51	=51	=51
-4AA/	(8.ee\L	.
-.	16ee\Jk	.
-4E\ 4c\	4a/	.
-4E\ 4c\	4cc\)	.
+*ped	*	*
+4AA	(8.eeL	.
+.	16eeJk	.
+4E 4c	4a	.
+4E 4c	4cc)	.
+.	.	.
+*Xped	*	*
 =52	=52	=52
-4AA/	8.b\L	.
-.	16b\Jk	.
-4E\ 4d\	4f#/	.
-4E\ 4d\	4g#/	.
+*ped	*	*
+4AA	8.bL	.
+.	16bJk	.
+4E 4d	4f#	.
+4E 4d	4g#t	.
+.	.	.
+*Xped	*	*
 =53	=53	=53
-4A\ 4c\	4aa\	.
+.	(8aq	.
+4A 4c	4aa)	.
 4r	8.r	.
-.	(16gn\LK	.
-4r	8.cc\	.
-.	16ee\Jk	.
+.	(16gnLK	.
+4r	8.cc	.
+.	16eeJk	.
 =54	=54	=54
-4C/	8.gg\L)	.
-.	16gg\Jk	.
-4G\ 4e\	4ee\	.
-4G^\ 4d#^\	4ff#^\	.
+*ped	*	*
+4C	8.ggL)	.
+.	16ggJk	.
+4G 4e	4ee	.
+4G^ 4d#^	4ff#t^	.
+.	.	.
+*Xped	*	*
 =55	=55	=55
-4C/	8.gg\L	.
-.	16gg\Jk	.
-4G\ 4e\	4ee\	.
-4G^\ 4d#^\	4ff#^\	.
+*ped	*	*
+4C	8.ggL	.
+.	16ggJk	.
+4G 4e	4ee	.
+.	.	.
+*Xped	*	*
+4G^ 4d#^	4ff#t^	.
 =56	=56	=56
-4C/	8gg\L	.
+*ped	*	*
+4C	8ggL	.
 .	16r	.
-.	(16gg\Jk	.
-4G\ 4e\	4cc\)	.
-4G^\ 4f^\	4dd\	.
+.	(16ggJk	.
+4G 4e	4cc)	.
+.	.	.
+*Xped	*	*
+4G^ 4f^	4dd	.
 =57	=57	=57
-4C/	2.ee\	.
-4G\ (4e\	.	.
-4E\ 4G#\ 4d\)	.	.
+!	!LO:S:a	!
+.	(16cc/qLL	.
+.	16dd/qJJ	.
+4C	2.ee)	.
+!LO:TX:a:i:t=rit.	!	!
+4G (4e	.	.
+4E 4G# 4d)	.	.
 =58	=58	=58
-4AAA/	8.ee\L	.
-.	16ee\Jk	.
-4E\ 4c\	4cc\	.
-4E\ 4B\	4dd#^\	.
+*ped	*	*
+4AAA	8.eeL	.
+.	16eeJk	.
+4E 4c	4cc	.
+4E 4B	4dd#^t	.
+.	.	.
+*Xped	*	*
 =59	=59	=59
-4AA/	(8.ee\L	.
-.	16ee\Jk	.
-4E\ 4c\	4a/	.
-4E\ 4c\	4cc\)	.
+*ped	*	*
+4AA	(8.eeL	.
+.	16eeJk	.
+4E 4c	4a	.
+4E 4c	4cc)	.
+.	.	.
+*Xped	*	*
 =60	=60	=60
-4AA/	8.b\L	.
-.	16b\Jk	.
-4E\ 4d\	4f#/	.
-4E\ 4d\	4g#/	.
+*ped	*	*
+4AA	8.bL	.
+.	16bJk	.
+4E 4d	4f#	.
+4E 4d	4g#t	.
+.	.	.
+*Xped	*	*
 =61	=61	=61
-4AA/	8a''/L	.
+*ped	*	*
+4AA	8a''L	.
 .	16r	.
-.	(16e/k	.
-4E\ 4c\	8a''/)	.
+.	(16ek	.
+4E 4c	8a'')	.
 .	16r	.
-.	(16e/k	.
-4E\ 4c\	8a''/)	.
+.	(16ek	.
+4E 4c	8a'')	.
 .	16r	.
-.	(16cc/Jk	.
+!	!LO:S:a	!
+.	(16ccJk	.
+*Xped	*	*
 =62	=62	=62
-4AA/	8ee''\L)	.
+*ped	*	*
+4AA	8ee''L)	.
 .	16r	.
-.	(16ee\Jk	.
-4E\ 4c\	4cc\)	.
-4E\ 4B\	4dd#^\	.
+.	(16eeJk	.
+4E 4c	4cc)	.
+4E 4B	4dd#t^	.
+.	.	.
+*Xped	*	*
 =63	=63	=63
-4AA/	8.ee\L	.
-.	16ee\Jk	.
-4E\ 4c\	4a/	.
-4E\ 4c\	4cc\	.
+*ped	*	*
+4AA	8.eeL	.
+.	16eeJk	.
+4E 4c	4a	.
+4E 4c	4cc	.
+.	.	.
+*Xped	*	*
 =64	=64	=64
-4AA/	8.b\L	.
-.	16b\Jk	.
-4E\ 4d\	4f#/	.
-4E\ 4d\	4g#/	.
+*ped	*	*
+4AA	8.bL	.
+.	16bJk	.
+4E 4d	4f#	.
+4E 4d	4g#t	.
+.	.	.
+*Xped	*	*
 =65	=65	=65
-4AA/	4aa\	.
-4E\ 4c\	4r	.
+*ped	*	*
+.	(8a/q	.
+4AA	4aa)	.
+4E 4c	4r	.
+*Xped	*	*
 4r	4r	.
 ==	==	==
 *-	*-	*-
+!!!SMS: Mikuli edition, G. Schirmer (1894-1898)
 !!!ENC: Craig Stuart Sapp
 !!!END: 2005/03/04/
+!!!EEV: 2016/01/04/

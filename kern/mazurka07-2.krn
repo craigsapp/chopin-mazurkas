@@ -44,9 +44,9 @@
 (4AA	.	)
 4E 4c)	4cc)	]
 =5	=5	=5
-4r	(12aL	.
+4r	12aL	.
 .	12b	.
-.	12aJ)	.
+.	12aJ	.
 !	!LO:TX:b:i:t=cresc.	!
 !	!LO:S:a	!
 (4E 4c	(4g#	<
@@ -185,9 +185,9 @@
 4F' 4A' 4c')	4cc)	]
 =29	=29	=29
 !	!LO:TX:b:i:t=poco rall.	!
-4r	(12aL	.
+4r	12aL	.
 .	12b-	.
-.	12aJ)	.
+.	12aJ	.
 4F 4c 4e-	4g	<
 4F 4c 4e-	4a	(
 .	.	[
@@ -248,28 +248,30 @@
 *	*v	*v	*
 =38	=38	=38
 !	!LO:TX:b:i:t=scherz.	!
-4A	(12gn' 12cc#'L	.
+!	!LO:S:a	!
+4A	12gn' 12cc#'L	.
 .	12g' 12cc#'	.
-.	12g' 12cc#'J)	.
+.	12g' 12cc#'J	.
 4D)	4f# 4dd	.
 (4DD	4fn^ 4b^	.
 =39	=39	=39
-4EE	(12d' 12g#X'L	.
+4EE	12d' 12g#X'L	.
 .	12d' 12f#X'	.
-.	12d' 12e'J)	.
+.	12d' 12e'J	.
 4AA)	4.c# 4.a	.
 (4E	.	.
 .	8g# 8b	.
 =40	=40	=40
-4A	(12gn' 12cc#'L	<
+4A	12gn' 12cc#'L	<
 .	12g' 12dd'	(
-.	12g' 12ee'J)	[
+.	12g' 12ee'J	[
 4D)	4f# 4dd	.
+!LO:S:a	!	!
 (4DD	4fn^ 4b^	.
 =41	=41	=41
-4EE	(12d' 12g#X'L	.
+4EE	12d' 12g#X'L	.
 .	12d' 12f#X'	.
-.	12d' 12e'J)	.
+.	12d' 12e'J	.
 4AA	2c# 2a	<
 4A)	.	(
 .	.	[
@@ -282,23 +284,23 @@
 4d'	.	4b' 4dd'	]
 4B'	.	4g#' 4b'	.
 =43	=43	=43	=43
-(12c#L	2.F#	(12a^ 12cc#^L	.
+(12c#L	2.F#	12a^ 12cc#^L	.
 12B	.	12g# 12b	.
-12AJ	.	12f#) 12aJ	.
+12AJ	.	12f# 12aJ	.
 4d)	.	4b' 4dd'	.
 4B'	.	4g#' 4b'	.
 =44	=44	=44	=44
-8c#L	2.F#	8a 8cc#L	.
+8c#L	2.F#	8a\ 8cc#\L	.
 16r	.	16r	.
-16c#Jk	.	16a 16cc#Jk	.
+16c#Jk	.	16a\ 16cc#\Jk	.
 4d'	.	4b' 4dd'	.
 4B'	.	4g#' 4b'	.
 =45	=45	=45	=45
-(12c#L	4F#	(12a 12cc#L	.
+12c#L	4F#	12a 12cc#L	.
 12B	.	12g# 12b	.
-12AJ)	.	12f# 12aJ)	.
+12AJ	.	12f# 12aJ	.
 *ped	*	*	*
-4FF# 4F#	2r	4ff# 4fff#	fz
+4FF# 4F#	2ryy	4ff# 4fff#	fz
 4FF# 4F#	.	4ff# 4fff#	fz
 =46	=46	=46	=46
 8c#L	2.F#	8a\ 8cc#\L	.
@@ -308,9 +310,9 @@
 4d'	.	4b' 4dd'	.
 4B'	.	4g#' 4b'	.
 =47	=47	=47	=47
-(12c#L	[2.F#	(12a 12cc#L	.
+12c#L	[2.F#	12a 12cc#L	.
 12B	.	12g# 12b	.
-12AJ)	.	12f# 12aJ)	.
+12AJ	.	12f# 12aJ	.
 4d'	.	4b' 4dd'	.
 4B'	.	4g#' 4b'	.
 =48	=48	=48	=48
@@ -347,24 +349,24 @@
 4D)	4dd'	4f#	.
 (4DD	4b'	4fn	.
 =53	=53	=53	=53
-4EE	(12g#XL	4d	<
+4EE	12g#XL	4d	<
 .	12f#X	.	(
-.	12eJ)	.	(
+.	12eJ	.	(
 4AA)	4.c# 4.a	2r	[
 (4E	.	.	.
 .	8g# 8b	.	.
 *	*v	*v	*
 =54	=54	=54
 !	!LO:TX:b:i:t=scherz.	!
-4A	(12gn 12cc#L	.
+4A	12gn 12cc#L	.
 .	12g 12cc#	.
-.	12g 12cc#J)	.
+.	12g 12cc#J	.
 4D)	4f# 4dd	.
 (4DD	4fn^ 4b^	.
 =55	=55	=55
-4EE	(12d' 12g#X'L	.
+4EE	12d' 12g#X'L	.
 .	12d' 12f#X'	.
-.	12d' 12e'J)	.
+.	12d' 12e'J	.
 4AA)	4.c# 4.a	<
 (4E	.	(
 .	8g# 8b	[
@@ -376,20 +378,22 @@
 (4DD	4fn^ 4b^	.
 =57	=57	=57
 *>D1	*>D1	*>D1
-4EE	(12d' 12g#'L	.
+4EE	12d' 12g#'L	.
 .	12d' 12f#X'	.
-.	12d' 12e'J)	.
+.	12d' 12e'J	.
 4AA)	2c# 2a	<
 4A	.	(
 .	.	[
 =58:|!	=58:|!	=58:|!
 *>D2	*>D2	*>D2
 !LO:TX:b:i:t=D.C. al Fine	!	!
-(4EE	(12d' 12g#X'L	<
+(4EE	12d' 12g#X'L	<
 .	12d' 12f#X'	(
-.	12d' 12e'J)	(
+.	12d' 12e'J	(
 4AAA) 4AA	4c# 4a	[
 ==	==	==
 *-	*-	*-
+!!!SMS: Mikuli edition, G. Schirmer (1894-1898)
 !!!ENC: Craig Stuart Sapp
 !!!END: 2005/02/20/
+!!!EEV: 2017/01/05/
