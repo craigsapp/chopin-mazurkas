@@ -69,7 +69,7 @@
 4EE-'	8e-L)	.
 .	16r	.
 .	(>16ccJk	.
-4E-:; 4c:; 4a-:;	4.aa-;)	fz
+4E-:; 4c:; 4a-:;	4.aa-^;)	fz
 4r	.	.
 .	(>8a-	.
 *Xped	*	*
@@ -122,50 +122,51 @@
 =12	=12	=12
 *>A1	*>A1	*>A1
 *^	*	*
-4r	2AA-	8e-L)	]
+4r	(2AA-	8e-L)	]
 .	.	16r	.
 .	.	(16ccJk	.
-4E- 4c	.	4a-)	.
+4E- 4c)	.	4a-)	.
 4r	4ryy	(8b-L	.
 .	.	(8a-J)	.
 *v	*v	*	*
 =13:|!	=13:|!	=13:|!
 *>A2	*>A2	*>A2
 *^	*	*
-4r	2AA-	8e-'L	.
+4r	(2AA-	8e-'L	.
 .	.	16r	.
 .	.	(16ccJk	.
-4E- 4c	.	4a-)	.
-4ryy	4a-\jj	(4cc''/	.
+4E- 4c)	.	4a-)	.
+4ryy	4a->\	(4cc/	.
 *v	*v	*	*
 =14!|:	=14!|:	=14!|:
 *>B	*>B	*>B
-(<4Bn 4fjj 4a-jj	4dd-)/	p
-8cjj 8e-jj 8gjj)	(>8ee-L/	.
-8rjj	8dd-J/	.
-(<4An 4e-jj 4g-jj	4cc/	.
+!LO:TX:b:i:t=legato	!	!
+(<4Bn 4f> 4a->	4dd-)/	p
+8c> 8e-> 8g>)	(>8ee-L/	.
+8r>	8dd-J/	.
+(<4An 4e-> 4g->	4cc/	.
 =15	=15	=15
-8B-X 8d-jj 8fjj)	8dd-L/	.
+8B-X 8d-> 8f>)	8dd-L/	.
 8r	8ccJ/	.
-(<4Gn 4d-jj 4f-jj	4b-/	.
-4A- 4cjj 4e-jj	4cc)/	.
+(<4Gn 4d-> 4f->	4b-/	.
+4A- 4c> 4e->	4cc)/	.
 =16	=16	=16
-4Bn 4fnjj 4a-jj	(>4ddn/	.
-8cjj 8e-jj 8gjj)	8ee-L/	.
-8rjj	8dd-J/	.
-(<4An 4e-jj 4g-jj	4cc/	.
+4Bn 4fn> 4a->	(>4ddn/	.
+8c> 8e-> 8g>)	8ee-L/	.
+8r>	8dd-J/	.
+(<4An 4e-> 4g->	4cc/	.
 =17	=17	=17
-8B-X 4d-jj 4fjj)	8dd-L/	.
+8B-X 4d-> 4f>)	8dd-L/	.
 8r	8ccJ/	.
-(<4Gn 4d-jj 4f-jj	4b-/	.
-4A- 4cjj 4e-jj	4cc)/	.
+(<4Gn 4d-> 4f->	4b-/	.
+4A-X 4c> 4e->	4cc)/	.
 =18	=18	=18
-4G 4d-jj 4f-jj	(>4b-/	.
-8A-) 4cjj 4e-jj	8ccL/	.
+4G 4d-> 4f->	(>4b-/	.
+8A-) 4c> 4e->	8ccL/	.
 8r	8b-J/	.
-4Fn 4c-jj 4dnjj	4a-/	.
+(4Fn 4c-> 4dn>	4a-/	.
 =19	=19	=19
-8G 8B- 8d-X	8b-L	.
+8G 8B- 8d-X)	8b-L	.
 8r	8a-J	.
 (4En 4B- 4c	4g	.
 4F 4A- 4c	4a-)	.
@@ -198,7 +199,7 @@
 2E-\ 2d-\	(>8.B-L	8.gL	>
 .	16A-Jk	16fJk	)
 .	4G)	4.e-	]
-4r	4E-	.	.
+4ryy	4E-	.	.
 .	.	8dd-	.
 *v	*v	*	*
 =27	=27	=27
@@ -262,7 +263,7 @@
 *Xped	*	*
 =34	=34	=34
 *ped	*	*
-4DD-'	8f''L)	.
+4DD-'	8fL)	.
 .	16r	.
 .	(16a-Jk	.
 .	8qa-/	.
@@ -300,7 +301,7 @@
 .	.	16r	.
 .	.	(16ccJk	.
 4E- 4c)	.	4a-)	.
-4a-jj\	4ryy	4cc/	.
+4a->\	4ryy	4cc/	.
 *v	*v	*	*
 *Xped	*	*
 =38:|!	=38:|!	=38:|!
@@ -368,9 +369,9 @@
 *Xped	*	*
 ==	==	==
 *-	*-	*-
-!!!RDF**kern: > = slur above
-!!!RDF**kern: < = slur below
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
 !!!SMS: Mikuli edition, G. Schirmer (1894-1898)
 !!!ENC: Craig Stuart Sapp
 !!!END: 2005/03/04/
-!!!EEV: 2017/01/18/
+!!!EEV: 2017/01/23/
