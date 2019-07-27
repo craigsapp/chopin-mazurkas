@@ -108,8 +108,8 @@
 *ped	*	*
 4FF#	8anL)	.
 .	16r	.
-.	16g#Jk	.
-4F# 4An 4c#	4f#	.
+.	(16g#Jk	.
+4F# 4An 4c#	4f#)	.
 4F# 4A 4c#	4r	.
 *Xped	*	*
 =13	=13	=13
@@ -136,8 +136,8 @@
 .	12a	.
 .	12gJ	.
 4BB 4C# 4G	4f#	.
-4FF# 4AA# 4E	4e	.
 *Xped	*	*
+4FF# 4AA# 4E	4e	.
 =16	=16	=16
 *^	*	*
 4r	(>2BBB	8dL)	.
@@ -377,7 +377,7 @@
 *Xped	*	*
 =47	=47	=47
 *ped	*	*
-.	(8gq/	.
+.	(8g#q/	.
 .	(>(<16ff#qLL>)	.
 .	16gg#qJJ	.
 4EE	8ff#L)	.
@@ -440,9 +440,9 @@
 *^	*	*	*
 4c# 4b	8g#L	8ee#L	4cc#	.
 .	8f#J	8ff#J	.	.
-4c# 4e# 4b	.	4gg#	4cc#	.
-4c# 4e# 4b	.	4aa	4cc#	.
 *v	*v	*	*	*
+4c# 4e# 4b	4gg#	4cc#	.
+4c# 4e# 4b	4aa	4cc#	.
 *clefF4	*	*	*
 =56	=56	=56	=56
 *ped	*	*	*
@@ -517,4 +517,4 @@
 !!!SMS: Mikuli edition, G. Schirmer (1894-1898)
 !!!ENC: Craig Stuart Sapp
 !!!END: 2004/12/24/
-!!!EEV: 2017/01/24/
+!!!EEV: 2017/01/26/
