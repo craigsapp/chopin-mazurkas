@@ -29,8 +29,8 @@
 .	16r	.
 .	16f#Jk	.
 4D 4A 4c	4d'	.
-4D 4A 4c 4d	4f#'	.
 *Xped	*	*
+4D 4A 4c 4d	4f#'	.
 =2	=2	=2
 *ped	*	*
 4GG	2g^	<
@@ -59,9 +59,9 @@
 .	16r	.
 .	(16f#Jk	.
 4D 4A 4c	4d'	.
-4D 4A 4c 4d	4f#'	.
-.	.	.
 *Xped	*	*
+4D 4A 4c 4d	4f#'	.
+!!LO:LB:g=original
 =6	=6	=6
 *ped	*	*
 4GG	2g^)	.
@@ -105,6 +105,7 @@
 (4G' 4c' 4e-' 4g'	4ee-	.
 4G' 4c' 4e-' 4a')	4ff#^<	.
 *clefF4	*	*
+!!LO:LB:g=original
 =12	=12	=12
 *	*^	*
 4r	(8gg	(2.b-	.
@@ -138,9 +139,10 @@
 4r	()2.d^>)	.
 (4D' 4A'	.	.
 4D' 4A')	.	.
+!!LO:LB:g=original
 =17	=17	=17
 *ped	*	*
-!	!LO:TX:a:i:t=dolce	!
+!	!LO:TX:a:i:t=dolce.	!
 4FFn	4fn')	fz
 4F 4B- (4e-	(12g^>L	.
 .	12a	.
@@ -182,12 +184,13 @@
 .	12gJ	.
 *Xped	*	*
 4F 4A 4e-	4f')	.
+!!LO:LB:g=original
 =22	=22	=22
 4F 4B- 4e-	(12g^>L	.
 .	12a	.
 .	12gJ	.
 4F 4A 4e-)	4f')	.
-4F 4A (4g	(4ee-^	>
+4F 4A (4g	(4ee-^<	>
 =23	=23	=23
 4F 4A 4f	12ddL	)
 .	12ee-	)
@@ -207,18 +210,19 @@
 =25	=25	=25
 *ped	*	*
 4FF	4f')	fz
-4F 4B- (4e-	(12g^L	.
+4F 4B- (4e-	(12g^>L	.
 .	12a	.
 .	12gJ	.
 *Xped	*	*
 4F 4A 4e-	4f')	.
 .	.	.
 =26	=26	=26
-4F 4B- 4e-	(12g^L	.
+4F 4B- 4e-	(12g^>L	.
 .	12a	.
 .	12gJ	.
 4F 4A 4e-	4f')	.
 4F 4A 4e-)	(4gg^	.
+!!LO:LB:g=original
 =27	=27	=27
 *ped	*	*
 4FF	12ffL	.
@@ -262,6 +266,7 @@
 4F 4A 4en	4.cc#^<	)
 4F 4A 4e-)	.	]
 .	8ccn)	.
+!!LO:LB:g=original
 =32	=32	=32
 *>A1	*>A1	*>A1
 *ped	*	*
@@ -285,7 +290,7 @@
 =34	=34	=34
 *>B	*>B	*>B
 *ped	*	*
-!	!LO:TX:a:i:t=con anima	!
+!!LO:TX:a:i:t=con anima.
 4BBB-	8a- 8ccL	>
 .	16r	)
 .	(16g 16b-XJk)	)
@@ -311,6 +316,7 @@
 *Xped	*	*
 4F 4B- 4d	.	.
 .	8a- 8cc	.
+!!LO:LB:g=original
 =37	=37	=37
 *ped	*	*
 4EE-'	(>8a- 8ccL	>
@@ -356,6 +362,7 @@
 4F 4B- 4d	.	.
 *Xped	*	*
 .	8a- 8cc	.
+!!LO:LB:g=original
 =43	=43	=43
 *ped	*	*
 4EE-'	8a- 8ccL	.
@@ -400,6 +407,7 @@
 4E- 4c 4e-	4cc	4a-	(
 4E- 4B- 4e-	4ee-)	4g	[
 *	*v	*v	*
+!!LO:LB:g=original
 =48	=48	=48
 4E- 4B- 4d	(8.a- 8.ccL	>
 .	16g 16b-Jk	)
@@ -450,6 +458,7 @@
 4G' (4d'	.	.	.
 4G' 4d')	4rdd	.	.
 *	*v	*v	*
+!!LO:LB:g=original
 =54	=54	=54
 *ped	*	*
 4DD	8aL)	.
@@ -496,6 +505,7 @@
 4G 4B- 4d	(>8aL	<
 .	8b-J	(
 *clefG2	*	*
+!!LO:LB:g=original
 =60	=60	=60
 4r	8ccL)	(
 .	16r	(
@@ -542,8 +552,8 @@
 *ped	*	*
 (4GG: 4D: 4B-:	4g	pp
 4GGG)	4gg)	.
-4r	4r	.
 *Xped	*	*
+4r	4r	.
 ==	==	==
 *-	*-	*-
 !!!RDF**kern: > = slur above
