@@ -48,7 +48,6 @@
 4r	(12aL	.
 .	12b	.
 .	12aJ)	.
-!	!LO:TX:b:i:t=cresc.	!
 (4E 4c	(>4g#	<
 4AA)	4a	.
 =6	=6	=6
@@ -94,6 +93,7 @@
 4F' 4A' 4c')	4cc)	]
 =13	=13	=13
 !	!LO:TX:b:i:t=poco rall.	!
+!	!LO:TUP:b	!
 4r	(>12aL	.
 .	12b-	.
 .	12aJ	.
@@ -189,6 +189,7 @@
 4F' 4A' 4c')	4cc)	]
 =29	=29	=29
 !	!LO:TX:b:i:t=poco rall.	!
+!	!LO:TUP:b	!
 4r	(12aL	.
 .	12b-	.
 .	12aJ)	.
@@ -202,7 +203,7 @@
 .	4dd)	4f)	.
 4r;	4r;	4r;yy	.
 =31	=31	=31	=31
-!	!LO:TX:a:i:t=a tempo	!	!
+!	!LO:TX:a:i:t=a tempo.	!	!
 4r	8.aL	4r	>
 .	16g#Jk	.	]
 4E 4Bn	4e	4d	.
@@ -212,7 +213,7 @@
 *>B1	*>B1	*>B1
 *	*^	*
 4AA 4E	2a	4c	.
-4AAA	.	4r	.
+4AAA	.	4rc	.
 *	*v	*v	*
 =33:|!	=33:|!	=33:|!
 *>B2	*>B2	*>B2
@@ -306,7 +307,7 @@
 4d'	.	4b' 4dd'	.
 4B'	.	4g#' 4b'	.
 =45	=45	=45	=45
-(12c#L	4F#	(12a 12cc#L	.
+(12c#L	4F#	(>12a 12cc#L	.
 12B	.	12g# 12b	.
 12AJ)	.	12f# 12aJ)	.
 *ped	*	*	*
@@ -340,7 +341,7 @@
 .	.	8ddn)	.	.
 *v	*v	*	*	*
 =50	=50	=50	=50
-!	!LO:TX:a:i:t=a tempo	!	!
+!	!LO:TX:a:i:t=a tempo.	!	!
 (4A	8cc#L	4gn	p
 !LO:TX:a:i:t=dolce	!	!	!
 .	16rff	.	.
@@ -410,6 +411,6 @@
 !!!SMS: Mikuli edition, G. Schirmer (1894-1898)
 !!!ENC: Craig Stuart Sapp
 !!!END: 2005/02/20/
-!!!EEV: 2020/03/27/
+!!!EEV: 2020/03/28/
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
